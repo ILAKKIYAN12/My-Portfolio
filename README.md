@@ -1,40 +1,52 @@
-# Ilakkiyan S S — Portfolio
+# Ilakkiyan S S — 
 
-Dark/techy React + Tailwind portfolio with an electric-blue accent, scroll-reveal
-animations, and a framed hero photo.
+# 💼 My Portfolio
 
-## Run it
+A modern, responsive personal portfolio website showcasing my projects, skills, and experience as an AI/ML Engineer & Frontend Developer.
 
-```bash
+🔗 **Live Site:** [Add your deployed link here]
+
+## ✨ Overview
+
+This portfolio highlights my journey in AI/ML engineering and frontend development, featuring project showcases, technical skills, and ways to connect with me.
+
+## 🛠️ Built With
+
+- **React** – Component-based UI
+- **Vite** – Fast build tooling
+- **Tailwind CSS** – Utility-first styling
+- Dark charcoal theme with purple accents
+
+## 🚀 Features
+
+- Fully responsive design (mobile, tablet, desktop)
+- Smooth animations and transitions
+- Project showcase section
+- Skills & certifications overview
+- Contact section
+
+## 📂 Featured Projects
+
+- **Deepfake Detection** – ML-based deepfake detection system
+- **Sri Lucky Saran Snacks** – Multi-step e-commerce web app
+- **Sugarcane Growth Analyzer** – District-wise agricultural insights with live weather data
+
+## ⚙️ Getting Started
+
+Clone the repo and run locally:
+
+\`\`\`bash
+git clone https://github.com/ILAKKIYAN12/My-Portfolio.git
+cd My-Portfolio
 npm install
 npm run dev
-```
+\`\`\`
 
-Then open the local URL Vite prints (usually http://localhost:5173).
+## 📫 Connect With Me
 
-## Build for deployment
+- GitHub: [ILAKKIYAN12](https://github.com/ILAKKIYAN12)
+- LinkedIn: [Ilakkiyan S S](https://linkedin.com/in/ilakkiyan-s-s-346529330/)
 
-```bash
-npm run build
-```
+## 📄 License
 
-This outputs a static `dist/` folder you can deploy to Vercel, Netlify, GitHub Pages, etc.
-
-## Editing content
-
-All text content (projects, skills, blog posts, links) lives at the top of
-`src/App.jsx` in plain arrays (`PROJECTS`, `SKILLS`, `BLOG`, `ROLES`) — edit
-those directly, no need to touch the JSX layout.
-
-Your photo is at `src/assets/profile.jpg` — swap the file (keep the same name)
-to update it.
-
-## Notes on content I filled in
-
-- The Sugarcane Growth Analyzer project links to your GitHub profile since the
-  file you shared was the tool's code, not a hosted link — swap in the repo
-  URL or a live demo link in the `PROJECTS` array once you have one.
-- Same for the snacks project — no link was provided, so it currently points
-  to your GitHub profile.
-- The 3 blog posts are placeholder titles/excerpts matching your project
-  topics — replace with real posts whenever you write them.
+This project is open source and available for reference.
