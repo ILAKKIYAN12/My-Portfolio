@@ -4,7 +4,7 @@
 
 A modern, responsive personal portfolio website showcasing my projects, skills, and experience as an AI/ML Engineer & Frontend Developer.
 
-🔗 **Live Site:** [Add your deployed link here]
+🔗 **Live Site:** [https://my-portfolio-ilakkiyan.vercel.app/]
 
 ## ✨ Overview
 
